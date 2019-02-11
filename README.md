@@ -1,2 +1,1 @@
-# msba
-Various data science projects and assignments from my graduate studies (MS in Business Analytics)
+This repository contains various data science projects and assignments from my MS in Business Analytics curriculum.
